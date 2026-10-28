@@ -1,0 +1,53 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+body {
+  font-family: "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: #333;
+  line-height: 1.7;
+}
+
+/* 标题美化 */
+h1 {
+  color: #1a5276;
+  border-bottom: 3px solid #1a5276;
+  padding-bottom: 8px;
+}
+h2 {
+  color: #2874a6;
+  margin-top: 36px;
+  border-left: 4px solid #2874a6;
+  padding-left: 10px;
+}
+
+/* 链接颜色 */
+a { color: #2e86c1; }
+a:hover { color: #1a5276; }
+
+/* 个人照片：圆角 + 阴影 */
+.profile-img {
+  width: 200px;
+  border-radius: 14px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+}
+
+/* 技能/方向标签 */
+.tag {
+  display: inline-block;
+  background: #eaf2f8;
+  color: #1a5276;
+  border-radius: 14px;
+  padding: 3px 14px;
+  margin: 3px 6px 3px 0;
+  font-size: 13px;
+}
+
+/* 信息卡片 */
+.card {
+  background: #f8f9f9;
+  border-radius: 10px;
+  padding: 16px 20px;
+  margin: 12px 0;
+}
