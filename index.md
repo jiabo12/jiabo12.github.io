@@ -2,21 +2,36 @@
 title: 主页
 ---
 
+&lt;img class="profile-img" src="photo.jpg" alt="我的照片"&gt;
+
 # 景浩然
 
-东南大学 吴健雄学院 多模态自主智能 | 本科生
+**东南大学 吴健雄学院 · 本科生**
 
-**研究方向：** 暂无
+&lt;span class="tag"&gt;多模态&lt;/span&gt;&lt;span class="tag"&gt;自主智能&lt;/span&gt;&lt;span class="tag"&gt;人工智能&lt;/span&gt;
 
-**邮箱：** 213252018@seu.edu.cn
+&lt;div class="card"&gt;
 
-**GitHub：** [jiabo12](https://github.com/jiabo12)
+ 邮箱：213252018@seu.edu.cn
+ GitHub：[jiabo12](https://github.com/jiabo12)
+ 学院：东南大学吴健雄学院
+
+&lt;/div&gt;
 
 ## 关于我
 
-人工智能专业
+东南大学吴健雄学院人工智能专业本科生，目前加入多模态自主智能实验室，正在探索中。
 
 ## 教育经历
 
-- 2025.09 – 至今　东南大学　本科在读
+| 时间 | 学校 | 身份 |
+| --- | --- | --- |
+| 2025.09 – 至今 | 东南大学 | 本科在读 |
 
+## 兴趣爱好
+
+（写点内容，比如：篮球、阅读、开源……）
+
+## 更新日志
+
+- 2026.10 个人主页上线 🎉
