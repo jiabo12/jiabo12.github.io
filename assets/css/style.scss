@@ -27,10 +27,12 @@ a { color: #2e86c1; }
 a:hover { color: #1a5276; }
 
 /* 个人照片：圆角 + 阴影 */
-.profile-img {
+img[alt="我的照片"] {
   width: 200px;
   border-radius: 14px;
   box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+  display: block;
+  margin-bottom: 20px;
 }
 
 /* 技能/方向标签 */
@@ -44,10 +46,11 @@ a:hover { color: #1a5276; }
   font-size: 13px;
 }
 
-/* 信息卡片 */
-.card {
+/* 引用块变成灰色卡片 */
+blockquote {
   background: #f8f9f9;
-  border-radius: 10px;
-  padding: 16px 20px;
-  margin: 12px 0;
+  border-left: 4px solid #2874a6;
+  padding: 12px 18px;
+  border-radius: 8px;
+  color: #555;
 }
