@@ -8,9 +8,10 @@ title: 主页
 
 **东南大学 吴健雄学院 · 本科生**
 
-> 📧 邮箱：213252018@seu.edu.cn
-> 🐙 GitHub：[jiabo12](https://github.com/jiabo12)
-> 🏫 方向：多模态 · 自主智能 · 人工智能
+|  邮箱 | 213252018@seu.edu.cn |
+| --- | --- |
+|  GitHub | [jiabo12](https://github.com/jiabo12) |
+|  方向 | 多模态 · 自主智能 · 人工智能 |
 
 ## 关于我
 
